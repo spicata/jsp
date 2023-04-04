@@ -1,4 +1,11 @@
 remote_theme: pages-themes/cayman@v0.2.0
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 plugins:
 - jekyll-remote-theme
