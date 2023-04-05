@@ -1,11 +1,15 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# replace the baseurl with the link to your website!
 
+baseurl: https://spicata.github.io/jsp
+
+# ignore everything below this line. it is not relevant for your purposes.
+
+remote_theme: pages-themes/cayman@v0.2.0
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
       layout: "default"
-
 plugins:
 - jekyll-remote-theme
