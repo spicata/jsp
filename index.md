@@ -6,6 +6,6 @@ jekyll turns markdown and html files into an actual website. it uses a thing cal
 
 \*\***this is to make stuff bold**\*\*, \**this makes stuff italics*\*, \~\~~~this strikes them out~~\~\~. sadly there is no underline in markdown formatting. you can also make headers using:
 
-# \# hashtags like that.
+## \## hashtags like that.
 
-finally, you can make files [\[like this\]\(test.md\)](test.md), and you can link to images too: ![\!\[like this\]\(assets/axolotl.pn)](assets/axolotl.png)
+finally, you can make files [\[like this\]\(test.md\)](test.md), and you can link to images too: ![\!\[like this\]\(assets/axolotl.png)](assets/axolotl.png)
