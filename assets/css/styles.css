@@ -4,3 +4,7 @@
 @import "{{ site.theme }}";
 
 /* any extra css goes below here :-) */
+
+body {
+    background-color: aqua;
+}
