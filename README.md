@@ -6,6 +6,7 @@ this is a quick repo that allows you to set up a jekyll website in no time. here
 1. go through all of the steps, and name the repo whatever you want
 1. then clone the repo and start editing[^1]. make new notes in the no folder
     1. make notes in markdown. learn how to do it on the internet
+1. go to settings -> pages, then press source > deploy from a branch, then choose the main branch and save.
 
 extra steps if you are using [obsidian](https://www.obsidian.md):
 
